@@ -1,0 +1,86 @@
+.grettings {
+    background-image: url(../../IMG/grettings/fon.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-top: 30px;
+}
+
+
+.header {
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+.logo {
+
+}
+
+.nav {
+
+}
+
+.nav__list {
+display: flex;
+column-gap: 40px;
+align-items: center;
+}
+
+.nav__item a{
+    font-family:var(--fontLF);
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 171%;
+    color: #fff;
+}
+
+.square {
+width: 4px;
+height: 4px;
+background-color: #fff;
+
+}
+
+.nav__item:last-child{
+    padding: 11px 17px;
+    border: 2px solid white;
+    border-radius: 4px;
+}
+
+.grettings__content {
+
+}
+
+.grettings__title {
+
+}
+
+.grettings__text {
+
+}
+
+.grettings__btn {
+
+}
+
+
+
+.nav__item:hover a{
+    color: var(--colorGreen);
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+h
